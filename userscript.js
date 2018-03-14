@@ -1,6 +1,6 @@
 // ==UserScript==
 // @name Enhance FCCU
-// @version 1.0
+// @version 1.1
 // @author Mark Williams
 // @description "Fix FCCU Changes"
 // @match        https://www.firstcommunityexpressnet.com/*
