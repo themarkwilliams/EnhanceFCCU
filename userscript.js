@@ -8,7 +8,7 @@
 // @grant GM_addStyle
 
 // ==/UserScript==
-// Git: https://github.com/themarkwilliams/EnhanceFCCU/blob/master/userscript.js
+// Git: https://raw.githubusercontent.com/themarkwilliams/EnhanceFCCU/master/userscript.js
 
 //Make the amounts green
 GM_addStyle('.amount-column { color:red !important;}'); // 3/10/18
