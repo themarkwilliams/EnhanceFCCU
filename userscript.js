@@ -1,6 +1,6 @@
 // ==UserScript==
 // @name Enhance FCCU
-// @version 1.1
+// @version 1.2
 // @author Mark Williams
 // @description "Fix FCCU Changes"
 // @match        https://www.firstcommunityexpressnet.com/*
@@ -15,3 +15,6 @@ GM_addStyle('.amount-column { color:red !important;}'); // 3/10/18
 
 //Add bold to the green deposits
 GM_addStyle('.amount-credit-column { font-weight:bold !important; }');// 3/10/18
+
+// Hide the Chat bubble
+GM_addStyle('.ncr-cb-chat-win-trigger { display:none !important; }'); // 7/14/24
