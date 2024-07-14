@@ -17,4 +17,5 @@ GM_addStyle('.amount-column { color:red !important;}'); // 3/10/18
 GM_addStyle('.amount-credit-column { font-weight:bold !important; }');// 3/10/18
 
 // Hide the Chat bubble
-GM_addStyle('.ncr-cb-chat-win-trigger { display:none !important; }'); // 7/14/24
+GM_addStyle('#ncr-cb-chat-win-trigger { display:none !important; }'); // 7/14/24
+GM_addStyle('.ncr-cb-chat-win-notif-section-popping { display:none !important; }'); // 7/14/24
